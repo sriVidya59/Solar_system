@@ -124,6 +124,13 @@ left: 680px;
     border-radius: 50%;
     width: 60px;
     position: absolute;
-    left: 631px;
-    top: 639px;
+    left: 722px;
+    top: 601px;
 }
+.sun-pic {
+    border-radius: 50%;
+  
+    width: 100px;
+    position: absolute;
+    left: 611px;
+    top: 621px;}
